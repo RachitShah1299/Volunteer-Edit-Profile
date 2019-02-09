@@ -43,6 +43,7 @@
                     android:layout_centerHorizontal="true"
                     android:layout_marginTop="122dp"
                     android:elevation="10px"
+                    android:id="@+id/profile"
                     android:src="@drawable/pro" />
 
                 <LinearLayout
